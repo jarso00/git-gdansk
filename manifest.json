@@ -1,0 +1,16 @@
+{
+    "name": "blog o drzewach",
+    "theme_color": "#666456",
+    "background_color": "#666456",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/git-gdansk/",
+    "icons": [
+        {
+            "src":"./tree.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+  }
